@@ -32,25 +32,6 @@
 
    
 
-    const addCourseToStudent = <T>(student:T)=> {
-        const course = "Next Level Web Development"
-
-        return{
-            ...student,
-            course
-        }
-    }
-
-    const student1 = addCourseToStudent<{
-        name:string;
-        email:string
-    }>({name:"x", email:"example@example.com"})
-    const student2 = addCourseToStudent<{
-        name:string;
-        email:string
-    }>({name:"y", email:"example@example.com"})
-
-
 
 
 

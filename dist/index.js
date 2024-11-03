@@ -1,2 +1,2 @@
 "use strict";
-var advanceTypeScript = "Monjur";
+let advanceTypeScript = "Monjur";
