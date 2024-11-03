@@ -1,0 +1,1 @@
+let advanceTypeScript : string = "Monjur"
